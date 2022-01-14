@@ -1,0 +1,4 @@
+#Fri Jan 14 15:24:52 IST 2022
+base.0=C\:\\Users\\revan\\OneDrive\\Desktop\\flutterProjects\\responsive_sign_up_ui\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
